@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(91, 66, 160)
+}
+
+#background {
+    background-color: rgb(71, 57, 121);
+    padding: 50px;
+    padding-top: 30px;
+    margin: 10px;
+}
+
+#title {
+    margin: 20px;
+    margin-top: 0px;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+.twitchers {
+    background-color: rgb(255, 255, 255);
+    ;
+    padding: 20px;
+    border-color: rgb(205, 201, 231);
+    border-style: solid;
+    border-width: 6px;
+    margin-bottom: 6px;
+}
+
+.twitcher-left {
+    border-right-width: 3px;
+}
+
+.twitcher-right {
+    border-left-width: 3px;
+}
